@@ -188,9 +188,9 @@ if(empty($_POST['check'])){
     setcookie('check_error', '', 100000);
   }
 
-    $user = 'u24224';
-    $pass = '1546096';
-    $db = new PDO('mysql:host=localhost;dbname=u24224', $user, $pass);
+    $user = 'u47548';
+    $pass = '9673729';
+    $db = new PDO('mysql:host=localhost;dbname=u47548', $user, $pass);
 
     $name = $_POST['name'];
     $email = $_POST['email'];
