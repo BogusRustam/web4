@@ -1,12 +1,12 @@
 #main-aside-wrapper {
-  background-color: #8F8A91;
+  background-color:  #5067d2;
 }
 
 
 #cont {
     padding: 15px;
     text-align: center;
-  background-color: #FFEFFD;
+  background-color: #bfc1d8;
   width: 60rem;
 }
 
@@ -17,6 +17,6 @@ p {
 }
 
 footer{
-    background-color: #8F8A91;
+    background-color:  #5067d2;
     height: 20px;
 }
